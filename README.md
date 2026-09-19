@@ -41,6 +41,15 @@ The animation focuses on the movement of the internal components and the tourbil
 
 **3D Model:** [View the 3D MODEL on Sketchfab](https://sketchfab.com/3d-models/jaeger-le-coultre-watch-5a2b0692697c4818b1113ff4c9162566)
 
+## License
+
+Licensed under **CC BY-NC 4.0**.
+You may use, modify, and share this project for **non-commercial purposes**, with credit to **Binupa**.
+
+**Commercial use or resale requires permission.**
+
+[View the full CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## Project Info
 
 * **Software:** Blender
