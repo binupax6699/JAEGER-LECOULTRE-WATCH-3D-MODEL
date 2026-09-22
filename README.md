@@ -17,6 +17,13 @@ The project focused on recreating both the exterior design and the internal mech
 
 ## Modeling
 
+<table>
+  <tr>
+    <td><img src="clay_img/row1.png" width="450"></td>
+    <td><img src="clay_img/row2.png" width="450"></td>
+  </tr>
+</table>
+
 * **Watch Body:** Modeled the main watch case and refined the overall shape using the reference images.
 * **Interior & Movement:** Built the internal mechanical components and detailed the visible parts of the watch movement.
 * **Tourbillon:** Added and modeled the tourbillon mechanism as one of the main mechanical features.
