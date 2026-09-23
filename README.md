@@ -13,7 +13,12 @@ A detailed 3D model of a Jaeger-LeCoultre watch, modeled and assembled from scra
 
 The project focused on recreating both the exterior design and the internal mechanical details of the watch, including the movement and tourbillon mechanism.
 
-<img src="/shots/004.png" width="600">
+<table>
+<tr>
+<td><img src="/shots/004.png" width="400"></td>
+<td><img src="/shots/001.png" width="400"></td>
+</tr>
+</table>
 
 ## Modeling
 
@@ -29,8 +34,6 @@ The project focused on recreating both the exterior design and the internal mech
 * **Tourbillon:** Added and modeled the tourbillon mechanism as one of the main mechanical features.
 * **Leather Strap:** Created the leather straps and shaped them to fit the watch case.
 * **Details:** Added smaller components, mechanical elements, and other details to make the watch more complete and realistic.
-
-<img src="/shots/001.png" width="600">
 
 ## Materials & Textures
 
