@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<td><img src="/shots/002.png" width="400"></td>
-<td><img src="/shots/003.png" width="400"></td>
+<td><img src="/shots/002.png" width="450"></td>
+<td><img src="/shots/003.png" width="450"></td>
 </tr>
 </table>
 
@@ -15,8 +15,8 @@ The project focused on recreating both the exterior design and the internal mech
 
 <table>
 <tr>
-<td><img src="/shots/004.png" width="400"></td>
-<td><img src="/shots/001.png" width="400"></td>
+<td><img src="/shots/004.png" width="450"></td>
+<td><img src="/shots/001.png" width="450"></td>
 </tr>
 </table>
 
